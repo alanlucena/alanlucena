@@ -1,10 +1,11 @@
-#9 Alan Lucena :man_technologist:
+### Alan Lucena :man_technologist:
 
-### Hello! 👋 Welcome to my profile
+### Em terra de home_user quem usa rm -rf /* é rei
 
- - 📌 Skills: Linux, VoIP, WebServers, Docker 
+ - 📌 Skills: Linux, VoIP, WebServers, Docker, PostgreSQL
  - ⚡ Currently learning Kubernetes and AWS
- - 😄 
+ - 📒 I always like to learn new things
+ - 🤘 Iron Maiden is the best 🤘
 
 <div style="display: inline_block">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanlucena&show_icons=true&theme=dark"/>
