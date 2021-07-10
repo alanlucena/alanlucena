@@ -3,7 +3,7 @@
 ### Em terra de home_user quem usa rm -rf /* é rei
 
  - 📌 Skills: Linux, VoIP, WebServers, Docker, PostgreSQL
- - ⚡ Currently learning Kubernetes and AWS
+ - ⚡ Currently learning Terraform and AWS
  - 📒 I always like to learn new things
  - 🤘 Iron Maiden is the best 🤘
 
