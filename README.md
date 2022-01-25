@@ -2,7 +2,7 @@
 
 ### Em terra de home_user quem usa rm -rf /* é rei
 
- - 📌 Skills: SRE | DevOps | Linux | VoIP | WebServers | Docker | PostgreSQL
+ - 📌 Skills: AppSec | SRE | Linux | VoIP | WebServers | Docker | PostgreSQL
  - ⚡ Currently learning Terraform, AWS and Python
  - 📒 I always like to learn new things
  - 🤘 Iron Maiden is the best 🤘
