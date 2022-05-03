@@ -1,7 +1,8 @@
 ### Alan Lucena :man_technologist:
 
 ### Em terra de home_user quem usa rm -rf /* é rei
-
+ 
+ - 💻 Cyber Security Engineer
  - 📌 Skills: AppSec | SRE | Linux | VoIP | WebServers | Docker | PostgreSQL
  - ⚡ Currently learning Terraform, AWS and Python
  - 📒 I always like to learn new things
