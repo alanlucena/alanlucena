@@ -4,7 +4,7 @@
  
  - 💻 Cyber Security Engineer
  - 📌 Skills: AppSec | SRE | Linux | VoIP | WebServers | Docker | PostgreSQL
- - ⚡ Currently learning Terraform, AWS and Python
+ - ⚡  I'm currently studying to get DESEC certification
  - 📒 I always like to learn new things
  - 🤘 Iron Maiden is the best 🤘
 
