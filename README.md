@@ -3,7 +3,7 @@
 ### Em terra de home_user quem usa rm -rf /* é rei
  
  - 💻 Cyber Security Engineer
- - 📌 Skills: AppSec | SRE | Linux | VoIP | WebServers | Docker | PostgreSQL
+ - 📌 Skills: AppSec | Linux | SRE | WebServers | Docker | PostgreSQL
  - ⚡  I'm currently studying to get DESEC certification
  - 📒 I always like to learn new things
  - 🤘 Iron Maiden is the best 🤘
