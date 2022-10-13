@@ -1,6 +1,6 @@
 ### Alan Lucena :man_technologist:
 
-### Em terra de home_user quem usa rm -rf /* é rei
+### I'm like destroying servers 
  
  - 💻 Cyber Security Engineer
  - 📌 Skills: AppSec | Linux | SRE | WebServers | Docker | PostgreSQL
