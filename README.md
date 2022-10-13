@@ -1,6 +1,6 @@
 ### Alan Lucena :man_technologist:
 
-### I like destroy servers 
+### I like destroying servers 
  
  - 💻 Cyber Security Engineer
  - 📌 Skills: AppSec | Linux | SRE | WebServers | Docker | PostgreSQL
