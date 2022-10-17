@@ -1,6 +1,4 @@
-### Alan Lucena :man_technologist:
-
-### I like destroying servers 
+### Lucena's World
 
 <h1 align="center">Hi 👋, I'm a madman who tries to destroy servers</h1>
  
