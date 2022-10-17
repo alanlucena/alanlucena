@@ -2,13 +2,11 @@
 
 ### I like destroying servers 
 
-<h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A madman who tries to destroy servers</h3>
+<h1 align="center">Hi 👋, I'm a madman who tries to destroy servers</h1>
  
  - 💻 Cyber Security Engineer
  - 🔭 I’m currently working on **PagSeguro/PagBank**
  - 📝 I regularly write articles on **VivaoLinux**
- - 📌 Skills: AppSec | Linux | SRE | WebServers | Docker | PostgreSQL
  - ⚡ I'm currently studying to get DESEC certification
  - 📒 I always like to learn new things
  - 🤘 Iron Maiden is the best 🤘
@@ -22,16 +20,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlucena&layout=compact&langs_count=16&theme=dark" />
 </div>
 
- <div style="display: inline_block"><br>
-    <h3>Techs:</h3>
-        <img align="center" alt="TH-Linux" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-        <img align="center" alt="TH-Bash" height="50" width="60" src="https://thiagoalexandria.com.br/assets/img/bash-logo.png">
-        <img align="center" alt="TH-Nginx" height="80" width="110" src="https://thiagoalexandria.com.br/assets/img/nginx-logo.png">
-        <img align="center" alt="TH-Apache" height="50" width="60" src="https://thiagoalexandria.com.br/assets/img/apache-logo.png">
-        <img align="center" alt="TH-Docker" height="60" width="70" src="https://thiagoalexandria.com.br/assets/img/docker-logo.png">
-        <img align="center" alt="TH-Kubernetes" height="80" width="90" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg">
-</div>
-
   ---
 
 <h3 align="left">Connect with me:</h3>
@@ -39,12 +27,3 @@
 <a href="https://linkedin.com/in/alanlucena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanlucena" height="30" width="40" /></a>
 <a href="https://instagram.com/alanlucena4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alanlucena4" height="30" width="40" /></a>
 </p>
-<div> 
-  <a href="https://instagram.com/alanlucena4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: mkdiralan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alanlucena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br
-
-
-
-
