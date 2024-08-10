@@ -4,8 +4,8 @@
  
  - 💻 Cyber Security Engineer
  - 🔭 I’m currently working on **PagSeguro/PagBank**
- - 📝 I regularly write articles on **VivaoLinux**
- - ⚡ I'm currently studying to get DESEC certification
+ - 📝 I regularly write articles on **VivaoLinux, dev.to and medium.com**
+ - ⚡ I'm currently studying to get CRTO and DCPT certification
  - 📒 I always like to learn new things
  - 🤘 Iron Maiden is the best 🤘
 
