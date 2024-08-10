@@ -14,7 +14,7 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/40px-Tux.svg.png" alt="Viva o Linux" width="20" height="20">
   <strong>Viva o Linux</strong><br>
-  <a href="https://www.vivaolinux.com.br/artigo/Entendendo-SQL-Injection/" target="_blank">[PT-BR] Entendo SQL Injetcion</a><br>
+  <a href="https://www.vivaolinux.com.br/artigo/Entendendo-SQL-Injection/" target="_blank">[PT-BR] Entendo SQL Injection</a><br>
   <a href="https://www.vivaolinux.com.br/dica/DPKG-Resolvendo-problemas-de-instalacao-de-pacotes/" target="_blank">[PT-BR] DPKG - Resolvendo problemas de instalacao de pacotes</a>
 </p>
 
