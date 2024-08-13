@@ -27,7 +27,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" alt="Medium" width="20" height="20">
   <strong>Medium</strong><br>
-  <a href="https://medium.com/@haasxh/container-security-in-a-kubernetes-cluster-cbdb82b068f6" target="_blank">[EN] Security in a kubernetes cluster</a>
+  <a href="https://medium.com/@haasxh/container-security-in-a-kubernetes-cluster-cbdb82b068f6" target="_blank">[EN] Security in a kubernetes cluster</a><br>
  <a href="https://medium.com/@haasxh/http-host-header-injection-52a88ed40a9f" target="_blank">[EN] HTTP Host Header Injection</a>
 </p>
 
